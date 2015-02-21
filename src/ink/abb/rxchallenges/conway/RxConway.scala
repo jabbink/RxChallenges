@@ -1,4 +1,4 @@
-package ink.abb.rxchallenges
+package ink.abb.rxchallenges.conway
 
 import rx.lang.scala.Observable
 
