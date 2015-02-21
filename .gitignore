@@ -1,0 +1,6 @@
+### Scala template
+*.class
+*.log
+
+### IntelliJ IDEA
+.idea
